@@ -1,0 +1,8 @@
+.quadrado{
+    position: absolute;
+    top: 400px;
+    left: 600px;
+    width: 50px;
+    height:50px;
+    background-color: rgb(241, 12, 12);
+}
